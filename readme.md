@@ -1,6 +1,6 @@
 # opdracht html /css @syntra 2021-2022
 
-Icons: (https://icomoon.io%icomoon.io)
+Icons: (https://icomoon.io)[icomoon.io]
 
 - importeer iconen
 - download iconen in map
